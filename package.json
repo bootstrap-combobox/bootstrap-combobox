@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/bootstrap-combobox/bootstrap-combobox/issues"
   },
-  "homepage": "https://github.com/bootstrap-combobox/bootstrap-combobox#readme"
+  "homepage": "https://github.com/bootstrap-combobox/bootstrap-combobox#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
