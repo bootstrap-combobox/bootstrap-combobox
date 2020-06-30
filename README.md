@@ -1,6 +1,6 @@
 # Bootstrap Combobox
 
-We had need of a combobox at work and after looking around at the available options I was not happy with any of them.  The project had all it's styling based on Twitter's Bootstrap, so building on that made sense.
+We had need of a combobox at work and after looking around at the available options I was not happy with any of them.  The project had all its styling based on Twitter's Bootstrap, so building on that made sense.
 
 ## How to install it
 
@@ -16,7 +16,7 @@ Previously, this was the only way to install the plugin. You will need two files
 #### 2. Npm install
 
 ```
-npm install @danielfarrell/bootstrap-combobox
+npm install @bootstrap-combobox/bootstrap-combobox
 ```
 
 #### 3. Bower install
