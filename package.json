@@ -1,5 +1,5 @@
 {
-  "name": "@danielfarrell/bootstrap-combobox",
+  "name": "bootstrap-combobox/bootstrap-combobox",
   "version": "1.2.0",
   "description": "A combobox plugin that works with twitter bootstrap",
   "main": "js/bootstrap-combobox.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danielfarrell/bootstrap-combobox.git"
+    "url": "git+https://github.com/bootstrap-combobox/bootstrap-combobox.git"
   },
   "keywords": [
     "bootstrap",
@@ -18,7 +18,7 @@
   "author": "Daniel Farrell",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/danielfarrell/bootstrap-combobox/issues"
+    "url": "https://github.com/bootstrap-combobox/bootstrap-combobox/issues"
   },
-  "homepage": "https://github.com/danielfarrell/bootstrap-combobox#readme"
+  "homepage": "https://github.com/bootstrap-combobox/bootstrap-combobox#readme"
 }
