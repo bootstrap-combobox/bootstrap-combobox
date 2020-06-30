@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-combobox/bootstrap-combobox",
+  "name": "@bootstrap-combobox/bootstrap-combobox",
   "version": "1.2.0",
   "description": "A combobox plugin that works with twitter bootstrap",
   "main": "js/bootstrap-combobox.js",
